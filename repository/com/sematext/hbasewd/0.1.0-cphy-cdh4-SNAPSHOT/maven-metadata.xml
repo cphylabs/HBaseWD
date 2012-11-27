@@ -2,35 +2,35 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.sematext</groupId>
   <artifactId>hbasewd</artifactId>
-  <version>0.1.0-cdh4-SNAPSHOT</version>
+  <version>0.1.0-cphy-cdh4-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20121127.193352</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20121127.193447</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20121127193352</lastUpdated>
+    <lastUpdated>20121127193447</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.0-cdh4-20121127.193352-2</value>
-        <updated>20121127193352</updated>
+        <value>0.1.0-cphy-cdh4-20121127.193447-1</value>
+        <updated>20121127193447</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.0-cdh4-20121127.193352-2</value>
-        <updated>20121127193352</updated>
+        <value>0.1.0-cphy-cdh4-20121127.193447-1</value>
+        <updated>20121127193447</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.0-cdh4-20121127.193352-2</value>
-        <updated>20121127193352</updated>
+        <value>0.1.0-cphy-cdh4-20121127.193447-1</value>
+        <updated>20121127193447</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.0-cdh4-20121127.193352-2</value>
-        <updated>20121127193352</updated>
+        <value>0.1.0-cphy-cdh4-20121127.193447-1</value>
+        <updated>20121127193447</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
